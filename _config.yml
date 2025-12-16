@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Vilhena Ofertas
-description: As melhores análises de produtos.
+description: As melhores análises e reviews de produtos do mercado.
+show_downloads: false
+google_analytics:
